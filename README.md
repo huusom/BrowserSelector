@@ -1,6 +1,4 @@
-> NOTE: This software is not being actively developed or maintained.
-
-# Browser Selector [![Build status](https://ci.appveyor.com/api/projects/status/github/DanTup/BrowserSelector?svg=true)](https://ci.appveyor.com/project/DanTup/browserselector)
+# Browser Selector
 
 Small utility to launch a different browser depending on the domain of the url being launched.
 
@@ -119,3 +117,4 @@ There are two ways to specify an Url. You can use simple wildcards or full regul
 - Full regular expressions are specified by wrapping it in /'s.
 - The domain _and_ path are used in the Url comparison.
 - The regular expression syntax is based on the Microsoft .NET implementation.
+
